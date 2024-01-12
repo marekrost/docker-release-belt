@@ -1,0 +1,3 @@
+[submodule "release-belt"]
+	path = release-belt
+	url = https://github.com/Rarst/release-belt
